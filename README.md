@@ -1,3 +1,6 @@
+> Inactive: The bot running behind this repo is no longer running and will not be updating the carts.
+> Please refer to https://tooomm.github.io/github-release-stats/?username=getferdi&repository=ferdi for up-to-date download stats
+
 # Ferdi Download Statistics
 
 This repository hosts download statistics for [Ferdi](http://getferdi.com/). The statistics will be automatically updated every hour.
